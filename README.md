@@ -8,7 +8,7 @@
 * [NPV Dashboard (Power BI)](https://letstalkdata.lemonsqueezy.com/checkout?cart=397ee188-c5d3-4234-b13f-65f08e3f8a2b) | Unlock your financial insights today! Buy our NPV Dashboard – a Power BI dashboard meticulously designed for analyzing and visualizing your project's net present value over time.
 
 ## Reports
-
+* [Fertility Rate Report](https://letstalkdata.lemonsqueezy.com/checkout/buy/5080de24-a1d8-4ddb-aac8-886128aa2350) | Explore the trends in global 🌍 Fertility Rate with our Power BI dashboard. It offers a deep dive into each country's yearly rates. Perfect for Data Journalism enthusiasts seeking insights and Data-Driven Stories.
 
 
 ## Datasets
