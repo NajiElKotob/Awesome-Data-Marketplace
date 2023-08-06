@@ -1,10 +1,13 @@
 # [Awesome Data Marketplace](https://letstalkdata.lemonsqueezy.com/)
 
-## Excel Templates
+## Templates
+### Excel Templates
+* [NPV Dashboard (Excel)](https://letstalkdata.lemonsqueezy.com/checkout?cart=13d329dc-f7d2-4692-95bc-d30bb6165fbf) | Unlock financial insights now! Buy our NPV Dashboard, an Excel tool for analyzing and visualizing your project's net present value over time.
 
-
-## Power BI Templates
+### Power BI Templates
 * [NPV Dashboard (Power BI)](https://letstalkdata.lemonsqueezy.com/checkout?cart=397ee188-c5d3-4234-b13f-65f08e3f8a2b) | Unlock your financial insights today! Buy our NPV Dashboard – a Power BI dashboard meticulously designed for analyzing and visualizing your project's net present value over time.
+
+
 
 ## Datasets
 ### Lebanon
