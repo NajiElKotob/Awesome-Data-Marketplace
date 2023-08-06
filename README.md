@@ -1,4 +1,4 @@
-# [Awesome Data Marketplace](https://letstalkdata.lemonsqueezy.com/)
+# [Awesome Data Marketplace](https://letstalkdata.lemonsqueezy.com/) 🛒
 
 ## Templates
 ### Excel Templates
